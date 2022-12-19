@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/yowcow/urljson/parser"
+	"github.com/yowcow/url2j/parser"
 )
 
 func main() {

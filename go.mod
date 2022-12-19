@@ -1,4 +1,4 @@
-module github.com/yowcow/urljson
+module github.com/yowcow/url2j
 
 go 1.19
 
